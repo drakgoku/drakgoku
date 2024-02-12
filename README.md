@@ -17,3 +17,6 @@ Puedes ver algunos de mis videojuegos más destacados en mi perfil de GitHub. Aq
 | Nombre | Descripción | Tecnologías |
 | ------ | ----------- | ----------- |
 | Sin título | actualmente en desarrollo | Unreal Engine 5, C++, Blueprints, MongoDB, AWS |
+
+
+<b> Nota: vengo de GitLab ya que en su capa gratuita ofrece más servicios y espacio que GitHub. </br>
