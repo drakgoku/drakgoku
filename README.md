@@ -18,5 +18,8 @@ Puedes ver algunos de mis videojuegos más destacados en mi perfil de GitHub. Aq
 | ------ | ----------- | ----------- |
 | Sin título | actualmente en desarrollo | Unreal Engine 5, C++, Blueprints, MongoDB, AWS |
 
+Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Architecture [Hexagonal, DDD, Vertical Slices] CRUD – Drakgoku
+
+<a href="https://ce3dd.wordpress.com/2024/02/01/https-i-imgur-com-pae34zb-png/" > Unreal Engine Clean Architecture [Hexagonal, DDD, Vertical Slices] - Drakgoku </a>
 
 <b> Nota: vengo de GitLab ya que en su capa gratuita ofrece más servicios y espacio que GitHub. </br>
