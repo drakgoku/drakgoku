@@ -27,6 +27,6 @@ $$\color{red} Nota:\space estoy \space en \space GitLab \space ya \space que \sp
 
 Por ejemplo:
 
-<h1 style="background-color:rgb(180, 180, 180);"><b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> (180, 180, 180)</h1>
+<b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> (180, 180, 180)
 
 
