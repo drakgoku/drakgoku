@@ -24,7 +24,7 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 
 
-<span style="background-color:lightblue; font-size:1.5em">$$\color{red}\text{Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$</span>
+<span style="background-color:lightblue; font-size:4em">$$\color{red}\text{Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$</span>
 
 
 
