@@ -24,7 +24,7 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 <br/><br/><br/>
 
-$$\color{red}\text{Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
+$$\color{lightred}\text{Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
 
 Por ejemplo:
 
