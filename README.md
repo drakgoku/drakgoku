@@ -22,12 +22,8 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 <a href="https://ce3dd.wordpress.com/2024/02/01/https-i-imgur-com-pae34zb-png/" > Unreal Engine Clean Architecture [Hexagonal, DDD, Vertical Slices] - Drakgoku </a>
 
-
-`$${\color{red}Red}$$`|$${\color{red}Red}$$
-```latex
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-```
-<span style="color:blue"> <b>  </br></span>.
+ 
+$$\color{magenta} Tittle$$
 
 <h1 style="background-color:rgb(180, 180, 180);"><b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> (180, 180, 180)</h1>
 
