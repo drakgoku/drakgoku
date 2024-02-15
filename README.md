@@ -22,12 +22,12 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 <a href="https://ce3dd.wordpress.com/2024/02/01/https-i-imgur-com-pae34zb-png/" > Unreal Engine Clean Architecture [Hexagonal, DDD, Vertical Slices] - Drakgoku </a>
 
-
+<br/><br/><br/>
 
 $$\color{red}\text{Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
 
 Por ejemplo:
 
-<b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> (180, 180, 180)
+<b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> 
 
 
