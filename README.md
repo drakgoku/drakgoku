@@ -23,7 +23,7 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 <a href="https://ce3dd.wordpress.com/2024/02/01/https-i-imgur-com-pae34zb-png/" > Unreal Engine Clean Architecture [Hexagonal, DDD, Vertical Slices] - Drakgoku </a>
 
  
-$$\color{red} Nota:\space estoy \space en \space GitLab \space ya \space que \space GITHUB \space ofrece \space menos \space espacio \space y  \space  servicios \space en \space la \space capa \space gratuita$$
+$$\color{red} Nota:\space estoy \space en \space GitLab \space ya \space que \space GITHUB \space no frece \space menos \space espacio \space y  \space  servicios \space en \space la \space capa \space gratuita$$
 
 Por ejemplo:
 
