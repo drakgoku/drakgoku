@@ -31,3 +31,7 @@ Por ejemplo:
 <b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> 
 
 
+<a href="https://gitlab.com/drakgoku/drakgoku" > Mi GitLab (Todos los proyectos son Privados) </a>
+
+
+
