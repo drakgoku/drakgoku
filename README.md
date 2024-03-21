@@ -24,7 +24,7 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 <br/><br/><br/>
 
-$$\color{orange}\text{\huge Actualmente me encuentro en GitHub}$$
+$$\color{orange}\text{\huge Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
 
 <a href="https://gitlab.com/drakgoku/drakgoku" > Mi GitLab (Todos los proyectos son Privados) </a>
 
