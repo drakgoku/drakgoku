@@ -24,12 +24,7 @@ Por cierto, dejo una GUÍA de buenas prácticas sobre Unreal Engine Clean Archit
 
 <br/><br/><br/>
 
-$$\color{orange}\text{\huge Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
-
-Por ejemplo:
-
-<b> remote: error: File /../../.psd is 176.50 MB; this exceeds GitHub's file size limit of 100.00 MB <b> 
-
+$$\color{orange}\text{\huge Actualmente me encuentro en GitHub}$$
 
 <a href="https://gitlab.com/drakgoku/drakgoku" > Mi GitLab (Todos los proyectos son Privados) </a>
 
