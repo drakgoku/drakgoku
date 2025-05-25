@@ -1,6 +1,6 @@
 Soy Drakgoku 💀
 
-<img src="https://i.imgur.com/obzoqqd.jpeg" alt="Un gato blanco y negro" style="width: object-fit: cover; object-position: center;"/>
+<img src="https://i.imgur.com/f791TOs.jpeg" alt="nununca hubo nada" style="width: object-fit: cover; object-position: center;"/>
 
 Soy un programador Java y Java Android.
 
