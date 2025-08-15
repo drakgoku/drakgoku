@@ -21,7 +21,7 @@ Puedes ver algunos de mis videojuegos más destacados en mi perfil de GitHub. Aq
 # 🚀 ¡Mis lanzamientos!
 
 ## 💡 VSC Theme : **Drakgoku One Dark**
-Una solución innovadora para **[resolver un problema o cubrir una necesidad]**.
+
 
 https://marketplace.visualstudio.com/items?itemName=Drakgoku.drakgoku-one-dark
 
