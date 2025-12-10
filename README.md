@@ -1,6 +1,6 @@
 Soy Drakgoku 💀
 
-<img src="https://i.imgur.com/f791TOs.jpeg" alt="nununca hubo nada" style="width: object-fit: cover; object-position: center;"/>
+<img src="https://i.imgur.com/QuVaqHN.jpeg" alt="nununca hubo nada" style="width: object-fit: cover; object-position: center;"/>
 
 Soy un programador Java y Java Android.
 
@@ -97,9 +97,4 @@ By the way, the VSC theme I use is drakgoku one dark, it's also mine and it's on
 ### Juego (UE5) +  Web (React)
 
 <br/><br/><br/>
-
-# Importante: 
-
-$$\color{orange}\text{\huge Nota: estoy en GitLab ya que GITHUB ofrece menos espacio y servicios en la capa gratuita}$$
-
 <a href="https://gitlab.com/drakgoku/drakgoku" > Mi GitLab (Todos los proyectos son Privados) </a>
