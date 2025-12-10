@@ -1,6 +1,6 @@
 Soy Drakgoku 💀
 
-<img src="https://i.imgur.com/QuVaqHN.jpeg" alt="nununca hubo nada" style="width: object-fit: cover; object-position: center;"/>
+<img src="https://i.imgur.com/VS7Fwvw.jpeg" alt="nununca hubo nada" style="width: object-fit: cover; object-position: center;"/>
 
 Soy un programador Java y Java Android.
 
